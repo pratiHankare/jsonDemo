@@ -1,0 +1,20 @@
+{
+  "products":[
+    {
+      "name":"t-shirt",
+      "color":"red"
+    },
+    {
+      "name":"t-shirt-1",
+      "color":"red"
+    },
+    {
+      "name":"t-shirt-2",
+      "color":"red"
+    }
+    {
+      "name":"t-shirt-3",
+      "color":"red"
+    }
+  ]
+}
